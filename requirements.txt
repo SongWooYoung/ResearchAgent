@@ -1,0 +1,12 @@
+# brew install python@3.11
+# curl -fsSL https://ollama.com/install.sh | sh
+discord
+google-generativeai
+google-genai
+openai
+python-dotenv
+ollama
+requests
+pymupdf4llm
+beautifulsoup4
+markdownify

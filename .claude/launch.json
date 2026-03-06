@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Discord Bot",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "Agent.discord_bot"],
+      "port": 0
+    },
+    {
+      "name": "CLI (Ollama)",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "Agent.cli"],
+      "port": 0
+    }
+  ]
+}
